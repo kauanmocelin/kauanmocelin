@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Kauan Mocelin from Brazil, java developer with a certain experience that resolved to adventure into the javascript world.
+I'm Kauan Mocelin from Brazil, java developer with a certain experience and actually studying about the javascript ecosystem.
