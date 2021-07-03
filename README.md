@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 I’m currently learning about Spring Boot, microservices and AWS
+
 I'm Kauan Mocelin from Brazil, java web developer with a certain experience focusing studies on Spring framework, especially Spring Boot developing backend applications with rest API and microservices.
