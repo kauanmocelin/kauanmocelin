@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Kauan Mocelin from Brazil, java developer with a certain experience and actually studying about the javascript ecosystem.
+I'm Kauan Mocelin from Brazil, java web developer with a certain experience focusing studies on Spring framework, especially Spring Boot developing backend applications with rest API and microservices.
