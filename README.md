@@ -9,5 +9,7 @@ I'm Kauan Mocelin from Brazil, java developer with plenty of experience focusing
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,html,js,jquery,java,docker,hibernate,maven,postman,redis&theme=light)](https://skillicons.dev)
 
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+
 ## 📬 Get in Touch
 - Connect with me on [Linkedin](https://www.linkedin.com/in/kauanmocelin/)
