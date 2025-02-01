@@ -13,4 +13,4 @@ I'm Kauan Mocelin from Brazil, java developer with plenty of experience focusing
 
 
 ## 📬 Get in Touch
-- Connect with me on [Linkedin](https://www.linkedin.com/in/kauanmocelin/)
+- Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauanmocelin/)
