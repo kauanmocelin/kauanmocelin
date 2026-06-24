@@ -1,5 +1,5 @@
 ### Hi there, I'm Kauan! 👋
-I’m currently learning about Spring Boot, Microservices, AWS, Docker, Testing and Software Architecture.
+I’m currently learning about Spring Boot, Quarkus, Microservices, AWS, Docker, Testing and Software Architecture.
 
 ![<kauanmocelin>'s Stats](https://github-readme-stats.vercel.app/api?username=kauanmocelin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -8,9 +8,12 @@ I'm Kauan Mocelin from Brazil, java developer with plenty of experience focusing
 
 ## 💻 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Junit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
-)
-
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Java](https://img.shields.io/badge/Java-232F3E?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-232F3E?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Quarkus](https://img.shields.io/badge/Quarkus-232F3E?style=for-the-badge&logo=quarkus&logoColor=4695EB)
+![Docker](https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Redis](https://img.shields.io/badge/Redis-232F3E?style=for-the-badge&logo=redis&logoColor=DC382D)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauanmocelin/)
