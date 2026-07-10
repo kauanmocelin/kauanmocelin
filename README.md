@@ -1,10 +1,7 @@
 ### Hi there, I'm Kauan! 👋
-I’m passionate about Java, Spring Boot, Quarkus, Microservices, AWS, Docker, Testing, and Software Architecture.
+I'm a Java Backend Developer from Brazil, passionate about building scalable backend applications with Java, Spring Boot, Quarkus, and cloud-native technologies.
 
-## 🚀 About Me
-I'm a Java Backend Developer from Brazil, passionate about building scalable applications using Spring Boot, Quarkus, and cloud-native technologies.
-
-I enjoy designing REST APIs, microservices, and continuously learning about software architecture, AWS, Docker, and testing.
+I enjoy designing REST APIs, microservices, and continuously improving my skills in software architecture, AWS, Docker and testing.
 
 ## 💻 Tech Stack
 
